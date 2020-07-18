@@ -12,7 +12,7 @@
 
     <?php
 	
-		include "proxyScraper.php";
+		include "scrapeProxy.php";
 
 		scrapeProxy("socks5", 3);
 		
